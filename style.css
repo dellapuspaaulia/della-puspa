@@ -1,0 +1,24 @@
+body {
+	background-image: url(bg4.png);
+	background-position: center;
+	backgrounf-repeat: no-repeat;
+}
+h2 {
+	font-family: sans-serif;
+	font-weight: normal;
+	font-style: italic;
+	line-height: 12px;
+	font-variant: small;
+	color: white;
+}
+p {
+	font-family: sans-serif;
+	font-size: 22px;
+	color: white;
+}
+table {
+	font-family: sans-serif;
+	font-weight: normal;
+	line-height: 10px;
+	font-variant: small;
+}
